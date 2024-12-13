@@ -1,7 +1,7 @@
 {
-  "name": "@joshuarileydev/terminal",
+  "name": "@joshuarileydev/mac-apps-launcher-mcp-server",
   "version": "0.0.1",
-  "description": "MCP server for using the API",
+  "description": "MCP server for launching applications on macOS",
   "license": "MIT",
   "type": "module",
   "bin": {
